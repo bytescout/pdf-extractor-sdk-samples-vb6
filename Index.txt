@@ -1,9 +1,9 @@
 ## Index of source code examples:
 
+\convert PDF To CSV
+\convert PDF To JSON
+\convert PDF To Text
+\convert PDF To XML
 \Merge PDF
-\PDF To CSV
-\PDF To JSON
-\PDF To Text
-\PDF To XML
 \Scanned PDF To Text
 \Split PDF
