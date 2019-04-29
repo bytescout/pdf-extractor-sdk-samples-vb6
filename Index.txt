@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \Convert PDF To CSV
+\Convert PDF To CSV (Merge multiline text to table cell)
 \Convert PDF To JSON
 \Convert PDF To Text
 \Convert PDF To XML
